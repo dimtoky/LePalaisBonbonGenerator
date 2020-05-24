@@ -1,0 +1,10 @@
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\bin\Release\LePalaisBonbonGenerator.exe.config
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\bin\Release\LePalaisBonbonGenerator.exe
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\bin\Release\LePalaisBonbonGenerator.pdb
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\obj\Release\LePalaisBonbonGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\obj\Release\LePalaisBonbonGenerator.Form1.resources
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\obj\Release\LePalaisBonbonGenerator.Properties.Resources.resources
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\obj\Release\LePalaisBonbonGenerator.csproj.GenerateResource.Cache
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\obj\Release\LePalaisBonbonGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\obj\Release\LePalaisBonbonGenerator.exe
+C:\Users\Dimtoky\Desktop\LePalaisBonbonGenerator\LePalaisBonbonGenerator\obj\Release\LePalaisBonbonGenerator.pdb
